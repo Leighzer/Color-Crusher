@@ -1,6 +1,6 @@
 # Color-Crusher
 
-This is a game I made in about half of a day. 
+This is a game I made in about half of a day in December of 2016. 
 
 I wanted to make something simple, had fast controls/gave fast feed back, and was an all around complete albeit small game.
 
