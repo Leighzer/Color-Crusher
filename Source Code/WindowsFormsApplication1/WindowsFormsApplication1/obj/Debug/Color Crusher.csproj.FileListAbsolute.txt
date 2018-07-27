@@ -1,0 +1,15 @@
+S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Color Crusher.csproj.GenerateResource.Cache
+S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Color Crusher.exe.config
+S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Color Crusher.exe.manifest
+S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Color Crusher.application
+S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Color Crusher.exe
+S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Color Crusher.pdb
+S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Color Crusher.csprojResolveAssemblyReference.cache
+S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Color Crusher.exe.manifest
+S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Color Crusher.application
+S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Color Crusher.exe
+S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Color Crusher.pdb
+S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ScoreWindow.resources
+S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CreditWindow.resources
