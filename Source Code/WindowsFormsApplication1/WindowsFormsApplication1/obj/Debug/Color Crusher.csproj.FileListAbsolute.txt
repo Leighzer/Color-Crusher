@@ -13,3 +13,18 @@ S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplic
 S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Color Crusher.pdb
 S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ScoreWindow.resources
 S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CreditWindow.resources
+S:\GitHub\Color-Crusher\Source Code\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Color Crusher.exe.config
+S:\GitHub\Color-Crusher\Source Code\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Color Crusher.exe
+S:\GitHub\Color-Crusher\Source Code\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Color Crusher.pdb
+S:\GitHub\Color-Crusher\Source Code\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Color Crusher.csprojResolveAssemblyReference.cache
+S:\GitHub\Color-Crusher\Source Code\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CreditWindow.resources
+S:\GitHub\Color-Crusher\Source Code\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+S:\GitHub\Color-Crusher\Source Code\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+S:\GitHub\Color-Crusher\Source Code\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ScoreWindow.resources
+S:\GitHub\Color-Crusher\Source Code\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Color Crusher.csproj.GenerateResource.Cache
+S:\GitHub\Color-Crusher\Source Code\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Color Crusher.exe.manifest
+S:\GitHub\Color-Crusher\Source Code\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Color Crusher.application
+S:\GitHub\Color-Crusher\Source Code\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Color Crusher.exe
+S:\GitHub\Color-Crusher\Source Code\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Color Crusher.pdb
+S:\GitHub\Color-Crusher\Source Code\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Color Crusher.exe.manifest
+S:\GitHub\Color-Crusher\Source Code\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Color Crusher.application
