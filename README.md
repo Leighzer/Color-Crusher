@@ -10,8 +10,11 @@ I wanted to make something simple, had fast controls/gave fast feed back, and wa
 For each color you press a corresponding key. For now they are hard coded to s, d, and f for no particular reason except for being on the home row of a keyboard.
 
 Press f if the color of the background is Green
+
 Press d if the color of the background is Blue
+
 Press s if the color of the background is Red
+
 
 See how fast your reflexes are and how high of a score you can rack up!
 
