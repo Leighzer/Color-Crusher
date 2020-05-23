@@ -1,8 +1,0 @@
-S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Color Crusher.exe.config
-S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.CreditWindow.resources
-S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
-S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
-S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.ScoreWindow.resources
-S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Color Crusher.csproj.GenerateResource.Cache
-S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Color Crusher.exe
-S:\College Folder\Sophomore Year\Spring\Comparative Languages\WindowsFormsApplication2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Color Crusher.pdb
